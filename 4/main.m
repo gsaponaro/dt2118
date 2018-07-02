@@ -1,5 +1,5 @@
 % DT2118, Speech and Speaker Recognition, Spring 2012
-% http://www.csc.kth.se/utbildning/kth/kurser/DT2118/
+% https://www.kth.se/social/course/DT2118/
 %
 % Computational Exercise 4: Viterbi and Forward Probabilities
 %
