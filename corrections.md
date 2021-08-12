@@ -4,7 +4,7 @@
 compute it only once
 * `epsilon` increment should be different for every direction, depending on data covariance
 (instead of having the same value in x,y directions)
-* for compactness and efficiency, `updateClusters()`` should return *distances* too, besides assignments Z
+* for compactness and efficiency, `updateClusters()` should return *distances* too, besides assignments Z
 
 ## Ex. 2
 
